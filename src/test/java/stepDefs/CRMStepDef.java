@@ -17,6 +17,7 @@ public class CRMStepDef {
 	public void setupDB()
 	{
 		System.out.println("***DB***");
+		System.out.println("***DB changes by Tester2***");
 	}
 	
 	@Before(order=1) 
